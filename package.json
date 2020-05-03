@@ -1,0 +1,26 @@
+{
+  "name": "node_redis_demo",
+  "version": "1.0.0",
+  "description": "How Node and Redis work together. Simple demo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhvash/node_redis_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhvash/node_redis_demo/issues"
+  },
+  "homepage": "https://github.com/shubhvash/node_redis_demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.3",
+    "redis": "^3.0.2"
+  }
+}
